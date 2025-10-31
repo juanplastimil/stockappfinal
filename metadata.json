@@ -1,0 +1,5 @@
+{
+  "name": "Gestor de Inventario Pro",
+  "description": "Una aplicación web completa para la gestión de inventario de depósitos, incluyendo materias primas, proveedores, ingresos y egresos de stock, con un dashboard interactivo y reportes visuales.",
+  "requestFramePermissions": []
+}
