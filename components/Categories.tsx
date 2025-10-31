@@ -128,3 +128,6 @@ const Categories: React.FC<CategoriesProps> = ({ categories, setCategories, rawM
 };
 
 export default Categories;
+
+
+export default Categories;
